@@ -1,9 +1,8 @@
 ### Stable Diffusion Pipeline
 
 <p float="center">
-  <img src="images1.png" width="35%" />
-  <img src="images2.png" width="35%" /> 
-  <img src="images3.png" width="35%" />
+  <img src="images1.png" width="45%" />
+  <img src="images3.png" width="45%" /> 
 </p
 
 
